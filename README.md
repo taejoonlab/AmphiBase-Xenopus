@@ -1,2 +1,2 @@
-# AmphiBase-XENLA
-X. laevis annotation resources used in AmphiBase
+# AmphiBase-Xenopus
+Xenopus annotation resources used in AmphiBase
