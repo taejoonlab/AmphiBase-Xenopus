@@ -1,0 +1,12 @@
+      1 gene_type=telomerase_RNA
+      2 gene_type=C_region
+      3 gene_type=scRNA
+      4 gene_type=snRNA
+      7 gene_type=snoRNA
+      9 gene_type=V_segment
+     10 gene_type=misc_RNA
+    115 gene_type=other
+    642 gene_type=pseudogene
+   1310 gene_type=tRNA
+   2343 gene_type=lncRNA
+  46595 gene_type=protein_coding

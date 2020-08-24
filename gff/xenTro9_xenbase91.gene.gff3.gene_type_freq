@@ -1,0 +1,11 @@
+      1 gene_type=snRNA
+      3 gene_type=rRNA
+      4 gene_type=C_region
+     11 gene_type=V_segment
+     32 gene_type=misc_RNA
+     52 gene_type=other
+    164 gene_type=pseudogene
+    172 gene_type=miRNA
+   1935 gene_type=lncRNA
+   2701 gene_type=tRNA
+  29132 gene_type=protein_coding
